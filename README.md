@@ -55,10 +55,6 @@ The dataset covers emergency calls from December 2015 to July 2020 in Montgomery
 - Emergency type and description
 - Township information
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Author
 
 Pardha Sai Nekkalapu
